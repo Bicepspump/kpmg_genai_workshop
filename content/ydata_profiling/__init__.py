@@ -5,9 +5,6 @@
 
 # ignore numba warnings
 import warnings  # isort:skip # noqa
-from numba.core.errors import NumbaDeprecationWarning  # isort:skip # noqa
-
-warnings.simplefilter("ignore", category=NumbaDeprecationWarning)
 
 import importlib.util  # isort:skip # noqa
 
