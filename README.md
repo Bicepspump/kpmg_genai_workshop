@@ -13,7 +13,6 @@ The static website is deployed via GitHub pages to XXX and can be accessed by an
 3. Notebook Cell, you run the code in the cell by selecting it and pressing Shift+Enter
 4. Alternatively, select the cell and press the "Run" button.
 
-
-
+![alt text](https://github.com/Bicepspump/jupyterlite_demo/blob/main/jupyterlite_tutorial_image1.png)
 
 
