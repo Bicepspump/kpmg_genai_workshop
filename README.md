@@ -1,6 +1,6 @@
 # JupyterLite GenAI Workshop
 
-This GitHub repository hosts the code used as a basis for the CBS workshop held at KPMG in February 2025. It contains a framework for using Generative AI to build an information extraction bot that looks at Wikipedia articles.
+This GitHub repository hosts the code used as a basis for the CBS workshop held at KPMG in February 2025. It contains the code for a GenAI-based classifier looking at news articles.
 
 ## Setup and Usage Guide
 
